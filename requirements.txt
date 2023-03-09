@@ -1,2 +1,6 @@
 Django
+numpy>=1.22.0
+pandas==1.5.3
+requests=2.28.2
+sqlalchemy[asyncio]==1.4.6
 whitenoise
