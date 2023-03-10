@@ -19,7 +19,7 @@ h3>=3.7.6
 
 certifi>=2022.12.7
 
-# darts>=0.23.0
+darts==0.23.0 # pinned to 23.0 due to azure deploy oryx build error
 
 astropy>=5.2
 scikit-learn>=1.2.0
